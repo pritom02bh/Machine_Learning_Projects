@@ -2,7 +2,7 @@
 
 <h3> **Project 1** </h3>
 
-**Spam Filter Model**
+Spam Filter Model
 
 
 
