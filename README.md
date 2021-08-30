@@ -1,6 +1,7 @@
 <h2>Machine_Learning_Projects</h2>
 
-Pritom Bhowmik (pritom01dev@gmail.com)          
+By Pritom Bhowmik (pritom01dev@gmail.com)          
+<br>
 
 <h3> Project 1 </h3>
 
