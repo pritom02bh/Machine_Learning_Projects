@@ -1,4 +1,4 @@
-# Spam Filter Model
+## Spam Filter Model
 Using Naive Bayes Classifier
 
 ## Problem Statement:
