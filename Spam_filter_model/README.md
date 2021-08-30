@@ -1,5 +1,6 @@
-# Machine_Learning_Projects
-End to End ML Projects with Documentations.
+# Spam Filter Model
+Using Naive Bayes Classifier
+
 
 
 
